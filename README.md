@@ -34,4 +34,4 @@ To view and edit the website locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
+   git clone https://github.com/<aadee-7>/<store X>.git
